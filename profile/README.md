@@ -38,6 +38,10 @@
 | --- | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vyckie&show_icons=true&theme=transparent&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianFrancisco&show_icons=true&theme=transparent&locale=pt-br) |
 
+| [Emily](https://github.com/souzaemily) | [Rafael Damasceno](https://github.com/Rafael_Damasceno) |
+| --- | --- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaemail&show_icons=true&theme=transparent&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael_Damasceno&show_icons=true&theme=transparent&locale=pt-br) |
+
 | [Alanda Paciencia](https://github.com/Alanda-Pac) | [Thiago Sousa](https://github.com/ThiagoSousa81) |
 | --- | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alanda-Pac&show_icons=true&theme=transparent&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSousa81&show_icons=true&theme=transparent&locale=pt-br) |
